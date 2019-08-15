@@ -1,4 +1,4 @@
-Multi-Stage graph (Shortest Path):
+# Multi-Stage graph (Shortest Path):
 
 A Multistage graph is a directed graph in which the nodes can be divided into a set of stages
 such that all edges are from a stage to next stage only (In other words there is no edge 
